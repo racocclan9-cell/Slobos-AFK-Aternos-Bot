@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RA-Friend.aternos.me:48525",
+    "ip": "RA-Friend.aternos.me",
     "port": 48525,
     "version": "",
     "try-creative": false
