@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RA-Friend.aternos.me",
-    "port": 48525,
-    "version": "",
+    "ip": "RmsA01-48FX.aternos.me",
+    "port": 30584,
+    "version": "1.26.45.1",
     "try-creative": false
   },
   "position": {
